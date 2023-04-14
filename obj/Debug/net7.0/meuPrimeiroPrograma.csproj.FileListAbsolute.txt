@@ -1,0 +1,15 @@
+C:\Users\StellaMara\meuPrimeiroPrograma\bin\Debug\net7.0\meuPrimeiroPrograma.exe
+C:\Users\StellaMara\meuPrimeiroPrograma\bin\Debug\net7.0\meuPrimeiroPrograma.deps.json
+C:\Users\StellaMara\meuPrimeiroPrograma\bin\Debug\net7.0\meuPrimeiroPrograma.runtimeconfig.json
+C:\Users\StellaMara\meuPrimeiroPrograma\bin\Debug\net7.0\meuPrimeiroPrograma.dll
+C:\Users\StellaMara\meuPrimeiroPrograma\bin\Debug\net7.0\meuPrimeiroPrograma.pdb
+C:\Users\StellaMara\meuPrimeiroPrograma\obj\Debug\net7.0\meuPrimeiroPrograma.csproj.AssemblyReference.cache
+C:\Users\StellaMara\meuPrimeiroPrograma\obj\Debug\net7.0\meuPrimeiroPrograma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\StellaMara\meuPrimeiroPrograma\obj\Debug\net7.0\meuPrimeiroPrograma.AssemblyInfoInputs.cache
+C:\Users\StellaMara\meuPrimeiroPrograma\obj\Debug\net7.0\meuPrimeiroPrograma.AssemblyInfo.cs
+C:\Users\StellaMara\meuPrimeiroPrograma\obj\Debug\net7.0\meuPrimeiroPrograma.csproj.CoreCompileInputs.cache
+C:\Users\StellaMara\meuPrimeiroPrograma\obj\Debug\net7.0\meuPrimeiroPrograma.dll
+C:\Users\StellaMara\meuPrimeiroPrograma\obj\Debug\net7.0\refint\meuPrimeiroPrograma.dll
+C:\Users\StellaMara\meuPrimeiroPrograma\obj\Debug\net7.0\meuPrimeiroPrograma.pdb
+C:\Users\StellaMara\meuPrimeiroPrograma\obj\Debug\net7.0\meuPrimeiroPrograma.genruntimeconfig.cache
+C:\Users\StellaMara\meuPrimeiroPrograma\obj\Debug\net7.0\ref\meuPrimeiroPrograma.dll
